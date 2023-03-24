@@ -1,2 +1,2 @@
-# X-Pruner
+# XPruner
 PyTorch implementation for X-Pruner
